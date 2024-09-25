@@ -1,3 +1,3 @@
 Logo do Portugol Studio, linguagem utilizada para atividades academicas
 
-![Logo do Portugol](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjhonathanribeiro.netlify.app%2Fportugol-studio%2F&psig=AOvVaw2nCbxjqtCnFI2y8zhJQOv0&ust=1727310875186000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCV3srs3IgDFQAAAAAdAAAAABAE)
+![Logo do Portugol](https://www.google.com/search?q=portugol+studio&safe=active&sca_esv=3d5ed972a4208e78&sca_upv=1&rlz=1C1GCEU_pt-BRBR1123BR1123&udm=2&source=iu&ictx=1&vet=1&fir=4NSM7UQfCWQgQM%252CH3sP2eyNHH3hUM%252C%252Fg%252F11f006dkw2%253Bc3ucTmknV_DQ4M%252CJIWgMeEcV1sz8M%252C_%253BCVwM6pWCxelU3M%252CQUIshMrxR5XhoM%252C_%253Bi6LIq-xCfmjQIM%252CgmLqpx7LJNlT1M%252C_%253Bds5bLqPCyYxGrM%252CGWnUznWTmpIjpM%252C_&usg=AI4_-kQD8uJuF_EYwzyATBZL5x-eWuBEuQ&sa=X&ved=2ahUKEwirwJf37tyIAxXACLkGHcyxMdkQ_B16BAgtEAE#vhid=4NSM7UQfCWQgQM&vssid=mosaic)
